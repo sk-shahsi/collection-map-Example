@@ -26,5 +26,8 @@ public class mapExample1 {
         }
 
 
+        for(Map.Entry<Integer,String> ent:res){
+            System.out.println("map value printing "+ent.getValue()+" "+ent.getKey());
+        }
     }
 }
