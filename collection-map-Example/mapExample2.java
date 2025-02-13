@@ -18,7 +18,7 @@ public class mapExample2 {
             System.out.println(res.getValue()+" : "+res.getKey());
         }
 
-       
+
 
     }
 }
